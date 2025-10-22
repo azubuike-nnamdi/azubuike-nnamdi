@@ -2,7 +2,7 @@
 
 <!-- ## 🚀 About Me -->
 
-I am Nnamdi Azubuike, a **Software Engineer** (particularly **React.js** and **Next.js**), with a foundational knowlegde of **PHP** (**Laravel**), and a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
+I am Nnamdi Azubuike, a **Software Engineer** (particularly **React.js** and **Next.js**), with a keen eye for detail and beautiful design, creates and maintains a better code base for re-usability, capable of continuous learning.
 
 My goal is to help you bring your ideas to life, and I'm always eager to collaborate with others on new and exciting projects. Whether you're looking to create a sleek, modern website or a cutting-edge web application, I have the expertise and creativity to make it happen.
 
