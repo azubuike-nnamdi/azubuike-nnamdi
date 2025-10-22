@@ -79,8 +79,8 @@ If you're interested in learning more about me or discussing project ideas, plea
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nnamdi-azubuike&show_icons=true)  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnamdi-azubuike&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azubuike-nnamdi&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/nnamdi-azubuike)  
+![Profile views](https://gpvc.arturio.dev/azubuike-nnamdi)  
 
 Update this based on my current profile
