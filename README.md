@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 ![](https://komarev.com/ghpvc/?username=azubuike-nnamdi&color=green)
 
 <!-- ## 🚀 About Me -->
